@@ -29,8 +29,15 @@
     </head>
     <body class="hold-transition sidebar-mini"  style="background-image: url('{{ asset('images/it-solutions-center2.jpg')}}">
         <div class="wrapper">
+
+            {{-- @include('layouts.header') --}}
+
             @include('layouts.sidebar')
+
             @yield('content')
+
+            @include('layouts.footer')
+
         </div>
     </body>
 </html>
