@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+@extends('layouts.app')
+@section('content')
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +12,7 @@
 </head>
 <body>
 <div class="row">
-    <div class="col-2 pt-5 pb-5" style="background:#216da0;">
+    <div class="col-2 pt-5 pb-5" style="background:#216DA0;">
         <img src="images/qept_logo_s.png" class="mt-4" alt="">
         <ul class="text-light decoration-none mt-4">
             <a href="#" class="list-group-item list-group-item-action active" aria-current="true">HOME</a>
@@ -40,4 +42,5 @@
 </div>
 </div>
 </body>
-</html>
+</html> -->
+@endsection
