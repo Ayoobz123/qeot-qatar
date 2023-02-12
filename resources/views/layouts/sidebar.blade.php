@@ -24,16 +24,7 @@
             </ul>
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <p class="text-white">
-                            OUR SERVICES
-                        </p>
-                    </a>
-                </li>
-            </ul>
-            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="/service" class="nav-link">
                         <p class="text-white">
                             OUR PRODUCTS
                         </p>
