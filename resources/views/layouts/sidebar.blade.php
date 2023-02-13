@@ -33,7 +33,7 @@
             </ul>
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="/contact" class="nav-link">
                         <p class="text-white">
                             CONTACT US
                         </p>
