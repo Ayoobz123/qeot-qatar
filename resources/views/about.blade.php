@@ -10,9 +10,9 @@
         <h1 style="color: hsl(331, 73%, 37%); padding:0px 20px; font-weight:bold;">Qatar Electronics Publishing & Trading</h1>
     </div>
     <div class="row" style="background-color: #ffffff">
-            <p class="ml-4">
-                <img src="images/qept_logo22.png" style="float: left; padding: 0px 20px 20px 0px;">
-                Qatar Electronic Publishing & Trading with a core competent team of experienced and highly qualified professionals provides IT solutions and services. Driven by the mission to<br>
+            <p class="pt-3 text-justify">
+                <img src="images/qept_logo22.png" style="float: left; padding: 0px 20px 20px 0px; height: 110px;">
+                Qatar Electronic Publishing & Trading with a core competent team of experienced and highly qualified professionals provides IT solutions and services. Driven by the mission to
                 pursue excellence through constantly exceeding the customer expectations, QEPT built on its successes and technical strengths to provide smart solutions for business and technology, to an expanded clientele in Qatar and beyond.
             </p>
             <p class="ml-4">

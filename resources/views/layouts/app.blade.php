@@ -27,7 +27,7 @@
             }
         </style>
     </head>
-    <body class="hold-transition sidebar-mini"  style="background-image: url('{{ asset('images/it-solutions-center2.jpg')}}">
+    <body class="hold-transition sidebar-mini">
         <div class="wrapper">
 
             {{-- @include('layouts.header') --}}

@@ -2,16 +2,16 @@
 @section('content')
 
 <!-- Content Wrapper. Contains page content -->
-<div class="content-wrapper" style="background-image: url(images/it-solutions-center2.jpg)">
+<div class="content-wrapper" style="background-image: url(images/it-solutions-center2.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:500px;">
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-7 mt-5">
-                        <img src="images/qept_logo.png">
+                        <img src="images/qept_logo.png" style="padding:10% 15% 1%;">
                     </div>
-                    <div class="col-5 mt-5">
+                    <div class="col-5 mt-5 pl-5 pt-5">
                         <img src="images/ico-since.svg" style="width:70px;">
                     </div>
                     <div class="col mt-5">

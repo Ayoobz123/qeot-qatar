@@ -23,5 +23,5 @@ Route::get('/', function () {
 
 Route::get('/home',[HomeController::class,'index']);
 Route::get('/about',[AboutController::class,'index']);
-Route::get('/service',[ServiceController::class,'index']);
+Route::get('/product',[ServiceController::class,'index']);
 Route::get('/contact',[ContactController::class,'index']);
