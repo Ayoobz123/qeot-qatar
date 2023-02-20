@@ -1,4 +1,5 @@
 @extends('layouts.app')
+@section('title', 'About-Us | Qatar Electronics Publishing & Trading')
 @section('content')
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper" style="background-image: url(images/bg-qatar_about.jpg)">

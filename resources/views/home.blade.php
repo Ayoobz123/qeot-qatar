@@ -1,4 +1,5 @@
 @extends('layouts.app')
+@section('title', 'Home | Qatar Electronics Publishing & Trading')
 @section('content')
 
 <!-- Content Wrapper. Contains page content -->
