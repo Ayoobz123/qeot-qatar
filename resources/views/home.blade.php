@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- Content Wrapper. Contains page content -->
-<div class="content-wrapper" style="background-image: url(images/it-solutions-center2.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:500px;">
+<div class="content-wrapper" style="background-image: url(images/it-solutions-center2.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:789px;">
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">

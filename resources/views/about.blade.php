@@ -2,7 +2,7 @@
 @section('title', 'About-Us | Qatar Electronics Publishing & Trading')
 @section('content')
 <!-- Content Wrapper. Contains page content -->
-<div class="content-wrapper" style="background-image: url(images/bg-qatar_about.jpg)">
+<div class="content-wrapper" style="background-image: url(images/bg-qatar_about.jpg); min-height:789px;">
     <!-- Main content -->
     <div>
 

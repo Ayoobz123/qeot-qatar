@@ -2,7 +2,7 @@
 @section('title', 'Contact | Qatar Electronics Publishing & Trading')
 @section('content')
 <!-- Content Wrapper. Contains page content -->
-<div class="content-wrapper" style="background-image: url(images/bg-contact.jpg)">
+<div class="content-wrapper" style="background-image: url(images/bg-contact.jpg); min-height:789px;">
     <div class="text-center text-white">
         <h1 style="padding:2% 15% 1%;"">
             <strong>CONTACT US</strong>
